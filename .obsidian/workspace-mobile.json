@@ -11,14 +11,10 @@
             "id": "ec219d854dbaf499",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "三.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "三"
+              "title": "新标签页"
             }
           }
         ]
@@ -168,7 +164,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ec219d854dbaf499",
+  "active": "20431b6b73b74ba8",
   "lastOpenFiles": [
     "三.md",
     "README.md",

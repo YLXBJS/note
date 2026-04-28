@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/三.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "三"
+              "title": "README"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/三.md",
+                "file": "笔记/未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "三"
+              "title": "未命名"
             }
           }
         ],
@@ -183,11 +183,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "20431b6b73b74ba8",
+  "active": "c7703e115051bbcf",
   "lastOpenFiles": [
+    "笔记/三.md",
+    "图片",
     "笔记/未命名.md",
     "笔记",
-    "笔记/三.md",
     "README.md",
     "四",
     "一"
